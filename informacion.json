@@ -1,15 +1,15 @@
 {
 	"prefijo": ".",
-	"BotControlador": "51948258899@s.whatsapp.net",
-        "NumeroBot": "51995386439",
-	"CoCreador": "Matt_M",
-	"VCardX": "+51995386439",
+	"BotControlador": "529983303629@s.whatsapp.net",
+        "NumeroBot": "52993303629",
+	"CoCreador": "",
+	"VCardX": "+529983303629",
 	"VCardY": "+51 995 386 439",
-	"MyPais": "51",
-	"NombreBot": "NK-BOT",
-	"LimiteEnGrupos": "2",
+	"MyPais": "52",
+	"NombreBot": "AKENA-BOT",
+	"LimiteEnGrupos": "28",
 	"LimiteComandos": "666999",
-	"TusRedesSociales": "~>[TuCanalDeYoutube]\n~>[PaginaDeFacebook]\n~>[TusOtrasRedesSociales...]",
+	"TusRedesSociales":
 	"ApiZeks": "TeslaZeks",
 	"ApiLoL": "BudaApi"
 }
